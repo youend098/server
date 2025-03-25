@@ -220,7 +220,7 @@ echo -e " ${z}╰═════════════════════
 #echo -e " ${z}│ ${NC}${z} WS-EPRO$NC : $status_ws_epro" "    ${z} DROPBEAR$NC : $status_dropbear" "     ${z} HAPROXY$NC : $status_haproxy   $NC${z}│$NC" 
 #echo -e " ${z}╰════════════════╯╰══════════════════╯╰════════════════════╯${NC}"
 echo -e " ${z}╭══════════════════════════════════════════════════════════╮${NC}"
-echo -e " ${z}│$NC${z} Dev.Sc$NC        ${z}=$NC  MF_youend"
+echo -e " ${z}│$NC${z} Dev.Sc$NC        ${z}=$NC MF_youend"
 echo -e " ${z}│$NC${z} Client/Regist$NC ${z}=$NC $username [$sts]"
 echo -e " ${z}│$NC${z} Exp Script$NC    ${z}=$NC $exp / $certifacate Days$NC "
 echo -e " ${z}╰══════════════════════════════════════════════════════════╯${NC}"
