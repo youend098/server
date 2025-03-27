@@ -15,8 +15,8 @@
 <pre><code>wget https://raw.githubusercontent.com/youend098/server/main/update.sh && chmod +x update.sh && ./update.sh</code></pre>
 
 # SUPPORT OS RECOMENDED
-- UBUNTU 20.04
-- DEBIAN 10
+- UBUNTU 18/20 TLS
+- DEBIAN 9/10
 
 # INFO PORT
 - TROJAN WS (443)
