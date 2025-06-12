@@ -1,6 +1,6 @@
 # ⚙️SCRYPT BY MF_youend⚙️
 
-===========================================================================
+============================================================================
 
 # LOGIN USER ROOT
 <pre><code>sudo su</code></pre>
@@ -11,7 +11,7 @@
 # SETTING PERMISSION LOGIN ROOT
 <pre><code>nano /etc/ssh/sshd_config</code></pre>
 
-===========================================================================
+============================================================================
 
 # SUPPORT OS RECOMENDED
 - UBUNTU 18/20 TLS
@@ -24,7 +24,7 @@
 # UPDATE SCRIPT
 <pre><code>wget https://raw.githubusercontent.com/youend098/server/main/update.sh && chmod +x update.sh && ./update.sh</code></pre>
 
-===========================================================================
+============================================================================
 # INFO PORT
 - TROJAN WS (443)
 - TROJAN GRPC (443)
