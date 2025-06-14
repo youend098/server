@@ -25,7 +25,7 @@ KEY="8101122738:AAFNNI-jHdpDHpfnjQ5Wq0p_5Q5eo1jbJf0"
 URL="https://api.telegram.org/bot$KEY/sendMessage"
 # ===================
 clear
-  # // Exporint IP AddressInformation
+# // Exporint IP AddressInformation
 export IP=$( curl -sS icanhazip.com )
 
 # // Clear Data
@@ -33,7 +33,19 @@ clear
 clear && clear && clear
 clear;clear;clear
 
-  # // Banner
+# Show banner
+echo -e "\033[1;34m"  # Biru terang
+echo " ███╗   ███╗███████╗    ██╗   ██╗ ██████╗ ██╗   ██╗███████╗███╗   ██╗██████╗ "
+echo " ████╗ ████║██╔════╝    ╚██╗ ██╔╝██╔═══██╗██║   ██║██╔════╝████╗  ██║██╔══██╗"
+echo " ██╔████╔██║█████╗       ╚████╔╝ ██║   ██║██║   ██║█████╗  ██╔██╗ ██║██║  ██║"
+echo " ██║╚██╔╝██║██╔══╝        ╚██╔╝  ██║   ██║██║   ██║██╔══╝  ██║╚██╗██║██║  ██║"
+echo " ██║ ╚═╝ ██║██║            ██║   ╚██████╔╝╚██████╔╝███████╗██║ ╚████║██████╔╝"
+echo " ╚═╝     ╚═╝╚═╝            ╚═╝    ╚═════╝  ╚═════╝ ╚══════╝╚═╝  ╚═══╝╚═════╝ "
+echo -e "\033[0m"
+echo -e "\033[1;32m>> Starting the script MF_youend installation...\033[0m"
+sleep 2
+
+# // Banner
 echo -e "${YELLOW}----------------------------------------------------------${NC}"
 echo -e "  Welcome To MF_youend ${YELLOW}(${NC}${green} Stable Edition ${NC}${YELLOW})${NC}"
 echo -e " This Will Quick Setup VPN Server On Your Server"
