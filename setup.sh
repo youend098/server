@@ -295,7 +295,7 @@ clear
 function pasang_domain() {
 echo -e ""
 clear
-    echo -e "   .----------------------------------."
+echo -e "   .----------------------------------."
 echo -e "   |\e[1;32mPlease Select a Domain Type Below \e[0m|"
 echo -e "   '----------------------------------'"
 echo -e "     \e[1;32m1)\e[0m Domain Sendiri"
