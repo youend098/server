@@ -47,10 +47,10 @@ sleep 2
 
 # // Banner
 echo -e "${YELLOW}----------------------------------------------------------${NC}"
-echo -e "  Welcome To MF_youend ${YELLOW}(${NC}${green} Stable Edition ${NC}${YELLOW})${NC}"
+echo -e " Welcome To MF_youend ${YELLOW}(${NC}${green} Stable Edition ${NC}${YELLOW})${NC}"
 echo -e " This Will Quick Setup VPN Server On Your Server"
-echo -e "  Auther : ${green}MF_youend® ${NC}${YELLOW}(${NC} ${green} MF_youend${NC}${YELLOW})${NC}"
-echo -e " © Recode By MF_youend${YELLOW}(${NC} 2025 ${YELLOW})${NC}"
+echo -e " Auther : ${green}MF_youend® ${NC}${YELLOW}(${NC} ${green} MF_youend${NC}${YELLOW})${NC}"
+echo -e " ©Recode By MF_youend${YELLOW}(${NC} 2025 ${YELLOW})${NC}"
 echo -e "${YELLOW}----------------------------------------------------------${NC}"
 echo ""
 sleep 2
